@@ -1,2 +1,2 @@
 # UEH_DemoGIT
-Demo
+Nguyen Ngoc Thach
